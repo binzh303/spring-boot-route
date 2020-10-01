@@ -15,4 +15,4 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 - spring-boot-properties | 
 
 ## 我的公众号
-![Java旅途](./weixin.jpg)
+![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcKMN0RgiaqvZe5qAHCoibm3v3f9aLDic7JK26R25pGic6RZOicOXyvfKRNdwGrtc2nTGkc1iaI7HGGbrWQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
