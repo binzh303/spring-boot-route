@@ -1,0 +1,28 @@
+#management:
+#  endpoint:
+#    shutdown:
+#      enabled: true
+#  endpoints:
+#    enabled-by-default: true
+#    web:
+#      exposure:
+#        include: health,info,beans,metrics
+#    jmx:
+#      exposure:
+#        include: health,info
+info:
+  person:
+    name: Java
+    age: 18
+server:
+  port: 7011
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:7010
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

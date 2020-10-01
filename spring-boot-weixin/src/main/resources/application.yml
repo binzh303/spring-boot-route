@@ -1,0 +1,16 @@
+server:
+  port: 7005
+
+dream:
+  weixin:
+    wx-configs:
+      - appId: wx965ace11ede62c40
+        appSecret: f1da8dc6ba2ed6f1fa0d39972654dbea
+        token: javatrip
+        encodingAesKey: 5amU7jQwKRoqDnQL28s1BVFkhJeegL1wgBCxa44gsQy
+      - appId: wx965ace11ede62c40
+        appSecret: f1da8dc6ba2ed6f1fa0d39972654dbea
+        token: javatrip
+        encodingAesKey: 5amU7jQwKRoqDnQL28s1BVFkhJeegL1wgBCxa44gsQy
+
+
