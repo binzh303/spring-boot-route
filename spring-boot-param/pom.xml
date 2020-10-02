@@ -10,7 +10,7 @@
     <groupId>com.javatrip</groupId>
     <artifactId>param</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>param</name>
+    <name>spring-boot-param</name>
     <description>Controller接收参数的几种方式总结</description>
 
     <dependencies>
