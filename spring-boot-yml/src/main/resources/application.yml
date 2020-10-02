@@ -1,0 +1,17 @@
+server:
+  port: 7002
+config:
+  name: Java旅途
+  desc: spring-boot-route
+
+configs:
+  config:
+    name: Java旅途
+    desc: spring-boot-route
+
+configarr:
+  config:
+    - name: Java旅途
+      desc: spring-boot-route
+    - name: javatrip
+      desc: spring-boot-yml
