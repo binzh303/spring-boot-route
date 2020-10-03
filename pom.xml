@@ -21,6 +21,7 @@
 
     <modules>
         <module>spring-boot-param</module>
+        <module>spring-boot-yml</module>
         <module>spring-boot-file</module>
         <module>spring-boot-exception</module>
         <module>spring-boot-swagger</module>
