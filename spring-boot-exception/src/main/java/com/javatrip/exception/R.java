@@ -6,8 +6,8 @@ import lombok.extern.slf4j.Slf4j;
 import java.io.Serializable;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 响应数据封装
  * @Date 2020-08-18 10:49
  */
 @Slf4j
