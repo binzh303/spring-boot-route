@@ -10,7 +10,7 @@
     <groupId>com.javatrip</groupId>
     <artifactId>swagger</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>swagger</name>
+    <name>spring-boot-swagger</name>
     <description>整合swagger生成crud接口</description>
 
     <dependencies>

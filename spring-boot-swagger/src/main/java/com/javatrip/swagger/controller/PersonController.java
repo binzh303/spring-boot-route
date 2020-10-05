@@ -9,8 +9,8 @@ import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.*;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 接口类，生成swagger接口文档
  * @Date 2020-08-28 11:29
  */
 @Api(tags = "用户接口")

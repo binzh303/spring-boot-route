@@ -1,6 +1,5 @@
 package com.javatrip.swagger.entity;
 
-import com.sun.prism.PixelFormat;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.AllArgsConstructor;
@@ -8,8 +7,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description person实体类
  * @Date 2020-08-28 11:25
  */
 @ApiModel("用户实体类")

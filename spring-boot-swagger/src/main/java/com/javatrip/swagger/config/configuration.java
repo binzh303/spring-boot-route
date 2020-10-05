@@ -12,8 +12,8 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 配置swagger2生成接口文档
  * @Date 2020-08-28 10:57
  */
 @EnableSwagger2
@@ -25,6 +25,7 @@ public class configuration {
         return new Docket(DocumentationType.SWAGGER_2)
                 .apiInfo(apiInfo())
                 .select()
+                // 需要生产文档的包配置
                 .apis(RequestHandlerSelectors.basePackage("com.javatrip.swagger.controller"))
                 .paths(PathSelectors.any())
                 .build();
@@ -45,7 +46,7 @@ public class configuration {
                 // 服务端地址
                 .termsOfServiceUrl("https://www.cnblogs.com/zhixie/")
                 // 联系信息
-                .contact(new Contact("java旅途","https://www.cnblogs.com/zhixie/","binzh303@163.com"))
+                .contact(new Contact("Java旅途","https://www.cnblogs.com/zhixie/","123@163.com"))
                 .build();
     }
 }
