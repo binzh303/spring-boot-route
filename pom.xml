@@ -34,6 +34,7 @@
         <module>spring-boot-mybatis</module>
         <module>spring-boot-jpa</module>
         <module>spring-boot-kafka</module>
+        <module>spring-boot-rabbitmq</module>
     </modules>
 
     <dependencies>
