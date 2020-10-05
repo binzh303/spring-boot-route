@@ -8,7 +8,7 @@ Spring Boot 学习路线
 Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便于初学者快速掌握。
 ![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVfF1BjN5R1wZR3oCnkESSrF9zcLEYcrm6sv2dHshctmIQNHVbrEn2y9aVGDWSia73pDWkFEiafw27NQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-项目正在连载...，如果想随时获得动态，点个Star并Fork一下
+项目正在连载...，如果想随时获得动态，点个**Star**并**Fork**一下
 
 ## 目录及示例代码
 ### Spring Boot基础知识
