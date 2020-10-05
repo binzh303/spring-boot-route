@@ -2,10 +2,12 @@ package com.javatrip.apidocs.entity;
 
 
 /**
- * 通用常量信息
- * 
- * @author ruoyi
- */
+* @ClassName: Constants
+* @Description: 通用常量类
+* @Author: 公众号：Java旅途
+* @CreateDate: 2020/10/6 0:00
+* @Version: 1.0
+*/
 public class Constants {
     /**
      * 成功标记

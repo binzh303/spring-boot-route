@@ -8,7 +8,7 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * @Author zhbin
+ * @Author 公众号：Java旅途
  * @Description 用户类
  * @Date 2020-06-15 21:45
  */

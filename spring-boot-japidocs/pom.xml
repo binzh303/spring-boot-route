@@ -8,9 +8,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
     <groupId>com.javatrip</groupId>
-    <artifactId>apidocs</artifactId>
+    <artifactId>japidocs</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>apidocs</name>
+    <name>spring-boot-japidocs</name>
     <description>整合ApiDocs生成CRUD接口</description>
 
     <dependencies>

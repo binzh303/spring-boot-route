@@ -3,10 +3,12 @@ package com.javatrip.apidocs.entity;
 import java.io.Serializable;
 
 /**
- * 响应信息主体
- *
- * @author ruoyi
- */
+* @ClassName: R
+* @Description: 响应信息封装
+* @Author: 公众号：Java旅途
+* @CreateDate: 2020/10/6 0:01
+* @Version: 1.0
+*/
 public class R<T> implements Serializable {
     private static final long serialVersionUID = 1L;
 

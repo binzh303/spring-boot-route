@@ -1,13 +1,13 @@
-package com.javatrip.apidocs;
+package com.javatrip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ApidocsApplication {
+public class JApidocsApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ApidocsApplication.class, args);
+        SpringApplication.run(JApidocsApplication.class, args);
     }
 
 }
