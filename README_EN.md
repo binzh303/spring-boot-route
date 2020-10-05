@@ -12,8 +12,9 @@ The project is being serialized... If you want to get dynamic information at any
 ##  Catalog and sample code 
 ### Spring boot Basics
 
-- spring-boot-param | [Several ways for controller to receive parameters](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485550&idx=1&sn=c31e0abcb60df82ebf74fae16fbb5ab1&chksm=fe69092bc91e803dd1dd146b9b61a7f550f70bc5a4009027016f9bc5d2ad2f856f53f641a888&token=1386421669&lang=zh_CN#rd)
-- spring-boot-yml | [ Several ways to read configuration file ](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485578&idx=1&sn=bb36f32cb244af142479575ecd417efe&chksm=fe6909cfc91e80d9cd95b138c2cabd0d2c764b9eee59bd334fbe38e754a551946d86be969f90&token=1209443305&lang=zh_CN#rd)
-- spring-boot-file | [Realize multi file upload](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485603&idx=1&sn=d4ed185e47c9b06468bc710c2221547f&chksm=fe6909e6c91e80f0d4a3e8872cd230b717b09ce7a9cff4fd524a268676f1034c17173c934fbb&token=985811532&lang=zh_CN#rd)
+- spring-boot-param | [spring-boot-route（一）Several ways for controller to receive parameters](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485550&idx=1&sn=c31e0abcb60df82ebf74fae16fbb5ab1&chksm=fe69092bc91e803dd1dd146b9b61a7f550f70bc5a4009027016f9bc5d2ad2f856f53f641a888&token=1386421669&lang=zh_CN#rd)
+- spring-boot-yml | [spring-boot-route（二）Several ways to read configuration file](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485578&idx=1&sn=bb36f32cb244af142479575ecd417efe&chksm=fe6909cfc91e80d9cd95b138c2cabd0d2c764b9eee59bd334fbe38e754a551946d86be969f90&token=1209443305&lang=zh_CN#rd)
+- spring-boot-file | [spring-boot-route（三）Realize multi file upload](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485603&idx=1&sn=d4ed185e47c9b06468bc710c2221547f&chksm=fe6909e6c91e80f0d4a3e8872cd230b717b09ce7a9cff4fd524a268676f1034c17173c934fbb&token=985811532&lang=zh_CN#rd)
+- spring-boot-exception | [spring-boot-route（四）Global exception handling](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485619&idx=1&sn=cb6a473e3c71c2444a3aab8a79955f01&chksm=fe6909f6c91e80e0536a3d79f38c901f15d6d519d9f2362325849c94695091de3f055a0c839e&token=2094231268&lang=zh_CN#rd)
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
