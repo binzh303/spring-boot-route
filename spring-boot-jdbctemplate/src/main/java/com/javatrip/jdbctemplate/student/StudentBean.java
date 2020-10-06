@@ -8,8 +8,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 数据库对应的实体类
  * @Date 2020-08-31 11:21
  */
 @Data
