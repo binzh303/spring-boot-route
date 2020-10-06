@@ -28,8 +28,9 @@
         <module>spring-boot-exception</module>
         <module>spring-boot-swagger</module>
         <module>spring-boot-japidocs</module>
-        <module>spring-boot-weixin</module>
         <module>spring-boot-jdbctemplate</module>
+        <module>spring-boot-weixin</module>
+
         <module>spring-boot-redis</module>
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-server</module>
