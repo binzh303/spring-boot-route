@@ -17,5 +17,10 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 - spring-boot-yml | [spring-boot-route（二）读取配置文件的几种方式](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485578&idx=1&sn=bb36f32cb244af142479575ecd417efe&chksm=fe6909cfc91e80d9cd95b138c2cabd0d2c764b9eee59bd334fbe38e754a551946d86be969f90&token=1209443305&lang=zh_CN#rd)
 - spring-boot-file | [spring-boot-route（三）实现多文件上传](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485603&idx=1&sn=d4ed185e47c9b06468bc710c2221547f&chksm=fe6909e6c91e80f0d4a3e8872cd230b717b09ce7a9cff4fd524a268676f1034c17173c934fbb&token=985811532&lang=zh_CN#rd)
 - spring-boot-exception | [spring-boot-route（四）全局异常处理](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485619&idx=1&sn=cb6a473e3c71c2444a3aab8a79955f01&chksm=fe6909f6c91e80e0536a3d79f38c901f15d6d519d9f2362325849c94695091de3f055a0c839e&token=2094231268&lang=zh_CN#rd)
+
+### Spring Boot Web开发
+
+- spring-boot-swagger | [整合swagger生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=1&sn=ac7290d0f03a2c529abb78997786ee82&chksm=fe6909a4c91e80b25f7baf1f2373cd733663bf9703d96534aaf30e6f5d73ea9bc8613c7ec913&token=1248675663&lang=zh_CN#rd)
+- spring-boot-japidocs | [整合JApiDocs生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=2&sn=59c33eb6a9be483f77523abb7d94a4aa&chksm=fe6909a4c91e80b2f4c777320d85c8fc5c8f422b8728efb9f44830899368c13eda3ee17b9721&token=1248675663&lang=zh_CN#rd)
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
