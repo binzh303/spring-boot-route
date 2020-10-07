@@ -1,0 +1,14 @@
+server:
+  port: 9002
+spring:
+  kafka:
+    # kafka服务地址
+    bootstrap-servers: 127.0.0.1:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+    consumer:
+      # 消费者组
+      group-id: test-consumer-group
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer

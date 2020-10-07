@@ -10,14 +10,18 @@
     <groupId>com.javatrip</groupId>
     <artifactId>redis</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>redis</name>
-    <description>Demo project for Spring Boot</description>
-
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+    <name>spring-boot-redis</name>
+    <description>Spring Boot整合redis</description>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-pool2</artifactId>
+        </dependency>
     </dependencies>
+
 </project>
