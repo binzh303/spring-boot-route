@@ -20,10 +20,10 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 
 ### Spring Boot Web开发
 
-- spring-boot-swagger | [整合swagger生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=1&sn=ac7290d0f03a2c529abb78997786ee82&chksm=fe6909a4c91e80b25f7baf1f2373cd733663bf9703d96534aaf30e6f5d73ea9bc8613c7ec913&token=1248675663&lang=zh_CN#rd)
-- spring-boot-japidocs | [整合JApiDocs生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=2&sn=59c33eb6a9be483f77523abb7d94a4aa&chksm=fe6909a4c91e80b2f4c777320d85c8fc5c8f422b8728efb9f44830899368c13eda3ee17b9721&token=1248675663&lang=zh_CN#rd)
+- spring-boot-swagger | [spring-boot-route（五）整合swagger生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=1&sn=ac7290d0f03a2c529abb78997786ee82&chksm=fe6909a4c91e80b25f7baf1f2373cd733663bf9703d96534aaf30e6f5d73ea9bc8613c7ec913&token=1248675663&lang=zh_CN#rd)
+- spring-boot-japidocs | [spring-boot-route（六）整合JApiDocs生成接口文档](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485665&idx=2&sn=59c33eb6a9be483f77523abb7d94a4aa&chksm=fe6909a4c91e80b2f4c777320d85c8fc5c8f422b8728efb9f44830899368c13eda3ee17b9721&token=1248675663&lang=zh_CN#rd)
 
 ### Spring Boot数据访问
-- spring-boot-jdbctemplate | [整合jdbcTemplate操作数据库](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485694&idx=1&sn=3c1d95e493ce29d5410c8c4df36593cd&chksm=fe6909bbc91e80adcfda40c0084021ebe36463ffa5b7d8aaba212582f1aaefd9192b36f3b20a&token=1932859324&lang=zh_CN#rd)
+- spring-boot-jdbctemplate | [spring-boot-route（七）整合jdbcTemplate操作数据库](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485694&idx=1&sn=3c1d95e493ce29d5410c8c4df36593cd&chksm=fe6909bbc91e80adcfda40c0084021ebe36463ffa5b7d8aaba212582f1aaefd9192b36f3b20a&token=1932859324&lang=zh_CN#rd)
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
