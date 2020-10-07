@@ -14,6 +14,8 @@
     <name>spring-boot-route</name>
     <description>SpringBoot学习路线</description>
 
+    <packaging>pom</packaging>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -29,15 +31,16 @@
         <module>spring-boot-swagger</module>
         <module>spring-boot-japidocs</module>
         <module>spring-boot-jdbctemplate</module>
+        <module>spring-boot-mybatis</module>
         <module>spring-boot-weixin</module>
 
         <module>spring-boot-redis</module>
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-server</module>
-        <module>spring-boot-mybatis</module>
         <module>spring-boot-jpa</module>
         <module>spring-boot-kafka</module>
         <module>spring-boot-rabbitmq</module>
+        <module>spring-boot-rocketmq</module>
     </modules>
 
     <dependencies>
