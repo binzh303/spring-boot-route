@@ -1,6 +1,6 @@
 package com.javatrip.mybatis;
 
-import com.javatrip.mybatis.annocation.Student;
+import com.javatrip.mybatis.entity.Student;
 import com.javatrip.mybatis.mapper.StudentMapper;
 import com.javatrip.mybatis.mapper.StudentXMapper;
 import org.junit.jupiter.api.Test;
@@ -15,14 +15,25 @@ class MybatisApplicationTests {
 
     @Autowired
     StudentXMapper xMapper;
+
+    @Test
+    void testMapper() {
+
+        Student student = mapper.findById(10);
+        mapper.addStudent("Java旅途",19);
+        mapper.deleteStudent(31);
+        mapper.updateStudent(10,"Java旅途");
+    }
+
     @Test
     void contextLoads() {
 
-        Student student = xMapper.findById(13);
-//
-//        mapper.addStudent("Java旅途",19);
-//        mapper.deleteStudent(13);
-//        mapper.updateStudent(13,"Java旅途");
+        Student student = xMapper.findById(10);
+        Student studentDo = new Student();
+        studentDo.setAge(18);
+        studentDo.setName("Java旅途呀");
+        xMapper.addStudent(studentDo);
+        xMapper.deleteStudent(32);
+        xMapper.updateStudent(31,"Java旅途");
     }
-
 }

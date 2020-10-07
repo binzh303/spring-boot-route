@@ -1,4 +1,4 @@
-package com.javatrip.mybatis.annocation;
+package com.javatrip.mybatis.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -8,8 +8,8 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 数据库对应实体类
  * @Date 2020-09-09 10:54
  */
 @Data

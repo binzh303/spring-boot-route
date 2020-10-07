@@ -1,19 +1,19 @@
 package com.javatrip.mybatis.mapper;
 
-import com.javatrip.mybatis.annocation.Student;
+import com.javatrip.mybatis.entity.Student;
 import org.apache.ibatis.annotations.*;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description xml对应mapper层
  * @Date 2020-09-09 15:55
  */
 @Mapper
 public interface StudentXMapper {
 
-    Student findById(@Param("id") Integer id);
+    Student findById(@Param("studentId") Integer studentId);
 
-    int addStudent(@Param("name") String name,@Param("age") Integer age);
+    int addStudent(Student student);
 
     int updateStudent(@Param("studentId") Integer studentId,@Param("name") String name);
 

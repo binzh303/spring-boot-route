@@ -3,7 +3,18 @@
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.javatrip.mybatis.mapper.StudentXMapper">
-    <select id="findById" resultType="com.javatrip.mybatis.annocation.Student">
-        select * from student where student_id = #{id}
+    <select id="findById" resultType="com.javatrip.mybatis.entity.Student">
+        select * from student where student_id = #{studentId}
     </select>
+    <insert id="addStudent" parameterType="com.javatrip.mybatis.entity.Student">
+        insert into student(name,age) values(#{name},#{age})
+    </insert>
+    
+    <update id="updateStudent" parameterType="com.javatrip.mybatis.entity.Student">
+        update student set name = #{name} where  student_id = #{studentId}
+    </update>
+
+    <delete id="deleteStudent" parameterType="Integer">
+        delete from student where student_id = #{studentId}
+    </delete>
 </mapper>

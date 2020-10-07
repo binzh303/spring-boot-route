@@ -1,3 +1,5 @@
+server:
+  port: 7008
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
@@ -6,3 +8,5 @@ spring:
     password: zby303
 mybatis:
   mapper-locations: classpath:mybatis/*.xml
+  configuration:
+    map-underscore-to-camel-case: true
