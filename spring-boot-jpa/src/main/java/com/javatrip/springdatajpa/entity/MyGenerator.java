@@ -7,7 +7,7 @@ import org.hibernate.id.IdentifierGenerator;
 import java.io.Serializable;
 
 /**
- * @Author zhbin
+ * @Author 公众号：Java旅途
  * @Description ID是int类型所以这里继承的是IdentityGenerator类，如果ID为String类型的话应该继承 UUIDGenerator
  * @Date 2020-09-09 18:48
  */

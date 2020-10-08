@@ -13,7 +13,7 @@ import java.io.Serializable;
 import java.util.Date;
 
 /**
- * @Author zhbin
+ * @Author 公众号：Java旅途
  * @Description
  * @Date 2020-09-09 10:54
  */

@@ -5,8 +5,8 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description dao层接口，自动实现CRUD等接口
  * @Date 2020-09-09 19:00
  */
 public interface StudentRepository extends JpaRepository<Student,Integer> {
