@@ -24,6 +24,7 @@ The project is being serialized... If you want to get dynamic information at any
 
 ### Spring Boot data access
 - spring-boot-route | [spring-boot-route（七）Integrating JdbcTemplate operation database](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485694&idx=1&sn=3c1d95e493ce29d5410c8c4df36593cd&chksm=fe6909bbc91e80adcfda40c0084021ebe36463ffa5b7d8aaba212582f1aaefd9192b36f3b20a&token=1932859324&lang=zh_CN#rd) 
+- spring-boot-mybatis | [spring-boot-route（八）Integrating mybatis operation database](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485758&idx=1&sn=3aee3b5284cb912735ce8e65a2496330&chksm=fe69087bc91e816d0492d5bd468021562de741caaecd58957951264b50a70d3efbe951a0689e&token=1489330669&lang=zh_CN#rd)
 
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)

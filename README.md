@@ -25,5 +25,6 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 
 ### Spring Boot数据访问
 - spring-boot-jdbctemplate | [spring-boot-route（七）整合jdbcTemplate操作数据库](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485694&idx=1&sn=3c1d95e493ce29d5410c8c4df36593cd&chksm=fe6909bbc91e80adcfda40c0084021ebe36463ffa5b7d8aaba212582f1aaefd9192b36f3b20a&token=1932859324&lang=zh_CN#rd)
+- spring-boot-mybatis | [spring-boot-route（八）整合mybatis操作数据库](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485758&idx=1&sn=3aee3b5284cb912735ce8e65a2496330&chksm=fe69087bc91e816d0492d5bd468021562de741caaecd58957951264b50a70d3efbe951a0689e&token=1489330669&lang=zh_CN#rd)
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
