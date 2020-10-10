@@ -26,5 +26,7 @@ The project is being serialized... If you want to get dynamic information at any
 - spring-boot-route | [spring-boot-route（七）Integrating JdbcTemplate operation database](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485694&idx=1&sn=3c1d95e493ce29d5410c8c4df36593cd&chksm=fe6909bbc91e80adcfda40c0084021ebe36463ffa5b7d8aaba212582f1aaefd9192b36f3b20a&token=1932859324&lang=zh_CN#rd) 
 - spring-boot-mybatis | [spring-boot-route（八）Integrating mybatis operation database](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485774&idx=2&sn=c495cab64a702cc60654d5825a5094f2&chksm=fe69080bc91e811df1572306412c2a3050824a9a531b1d78815f293f74a744002e76eab46cc6&token=1225618288&lang=zh_CN#rd)
 - spring-boot-JPA | [spring-boot-route（九）Integrating JPA operation database](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485774&idx=1&sn=52d4d0f30a8f151affe5c65ab512122d&chksm=fe69080bc91e811dc2631ce297e81fe2ef41b85adae80f8160572b5e8a9d327c624d6cfa7dc1&token=1225618288&lang=zh_CN#rd)
+- spring-boot-datasource | [spring-boot-route（十） Multi data source switching](https://mp.weixin.qq.com/s?__biz=MzU5NjA3MjQ5MA==&mid=2247485811&idx=1&sn=07062c1176b246b98a69622112d7cfc6&chksm=fe690836c91e812066903a1f6847e15d8e09c72e2ad9cc14706018147ef20e3b47ebc4378bc8&token=1752505468&lang=zh_CN#rd)
+
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
