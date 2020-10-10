@@ -1,0 +1,14 @@
+server:
+  port: 7010
+spring:
+  datasource:
+    db1:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://localhost:3306/db1?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&useAffectedRows=true&allowPublicKeyRetrieval=true
+      username: root
+      password: zby303
+    db2:
+      driver-class-name: com.mysql.cj.jdbc.Driver
+      jdbc-url: jdbc:mysql://localhost:3306/db2?useUnicode=true&characterEncoding=UTF-8&serverTimezone=Asia/Shanghai&zeroDateTimeBehavior=CONVERT_TO_NULL&useSSL=false&useAffectedRows=true&allowPublicKeyRetrieval=true
+      username: root
+      password: zby303
