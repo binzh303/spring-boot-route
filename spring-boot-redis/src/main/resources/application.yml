@@ -1,24 +1,24 @@
 server:
-  port: 9003
+  port: 7012
 spring:
   redis:
-    # redis¿â
+    # redisåº“
     database: 0
-    # redis ·þÎñÆ÷µØÖ·
+    # redis æœåŠ¡å™¨åœ°å€
     host: localhost
-    # redis ¶Ë¿ÚºÅ
+    # redis ç«¯å£å·
     port: 6379
-    # redis ÃÜÂë
+    # redis å¯†ç 
     password:
-    # Á¬½Ó³¬Ê±Ê±¼ä£¨ºÁÃë£©
+    # è¿žæŽ¥è¶…æ—¶æ—¶é—´ï¼ˆæ¯«ç§’ï¼‰
     timeout: 1000
     lettuce:
       pool:
-        # Á¬½Ó³Ø×î´óÁ´½ÓÊý£¨¸ºÊý±íÊ¾Ã»ÓÐÏÞÖÆ£©
+        # è¿žæŽ¥æ± æœ€å¤§é“¾æŽ¥æ•°ï¼ˆè´Ÿæ•°è¡¨ç¤ºæ²¡æœ‰é™åˆ¶ï¼‰
         max-active: 8
-        # Á¬½Ó³Ø×î´ó×èÈûµÈ´ýÊ±¼ä£¨¸ºÊý±íÊ¾Ã»ÓÐÏÞÖÆ£©
+        # è¿žæŽ¥æ± æœ€å¤§é˜»å¡žç­‰å¾…æ—¶é—´ï¼ˆè´Ÿæ•°è¡¨ç¤ºæ²¡æœ‰é™åˆ¶ï¼‰
         max-wait: -1
-        # Á¬½Ó³Ø×î´ó¿ÕÏÐÁ¬½ÓÊý
+        # è¿žæŽ¥æ± æœ€å¤§ç©ºé—²è¿žæŽ¥æ•°
         max-idle: 8
-        # Á¬½Ó³Ø×îÐ¡¿ÕÏÐÁ¬½ÓÊý
+        # è¿žæŽ¥æ± æœ€å°ç©ºé—²è¿žæŽ¥æ•°
         min-idle: 0
