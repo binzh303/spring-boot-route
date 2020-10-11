@@ -34,9 +34,11 @@
         <module>spring-boot-mybatis</module>
         <module>spring-boot-jpa</module>
         <module>spring-boot-datasource</module>
+        <module>spring-boot-encypt</module>
+        <module>spring-boot-redis</module>
         <module>spring-boot-weixin</module>
 
-        <module>spring-boot-redis</module>
+
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-server</module>
 
