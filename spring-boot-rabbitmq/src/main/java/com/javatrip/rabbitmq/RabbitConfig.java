@@ -11,8 +11,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description rabbitmq配置
  * @Date 2020-10-04 13:56
  */
 @Configuration
