@@ -35,5 +35,8 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 
 - spring-boot-redis | [spring-bot-route（十二）整合redis做为缓存](https://mp.weixin.qq.com/s/sj9Oq3i4zEyoEhwyBmUERA)
 
+### Spring Boot整合消息队列
+- spring-boot-rabbitmq | [spring-boot-route（十三）整合RabbitMQ消息队列](https://mp.weixin.qq.com/s/X2QtStCpcOFKYGQnuakFvg)
+
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)

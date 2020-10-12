@@ -33,5 +33,8 @@ The project is being serialized... If you want to get dynamic information at any
 
 - spring-boot-redis | [spring-bot-route（十二）Integrating redis as cache](https://mp.weixin.qq.com/s/sj9Oq3i4zEyoEhwyBmUERA)
 
+### Spring Boot integrated MQ
+- spring-boot-rabbitmq | [spring-boot-route（十三）Integrating RabbitMQ](https://mp.weixin.qq.com/s/X2QtStCpcOFKYGQnuakFvg)
+
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
