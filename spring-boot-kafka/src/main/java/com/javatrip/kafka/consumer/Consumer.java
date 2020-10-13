@@ -7,8 +7,8 @@ import org.springframework.stereotype.Component;
 
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 消费者
  * @Date 2020-09-13 16:53
  */
 @Component
