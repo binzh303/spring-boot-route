@@ -39,12 +39,10 @@
         <module>spring-boot-rabbitmq</module>
         <module>spring-boot-kafka</module>
         <module>spring-boot-rocketmq</module>
+        <module>spring-boot-logback</module>
         <module>spring-boot-weixin</module>
         <module>spring-boot-actuator</module>
         <module>spring-boot-admin-server</module>
-
-
-
     </modules>
 
     <dependencies>

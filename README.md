@@ -40,5 +40,8 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 - spring-boot-kafka | [spring-boot-route（十四）整合Kafka](https://mp.weixin.qq.com/s/dRI3oiMd_RAJ95lyGro9Fw)
 - spring-boot-rocketmq | [spring-boot-route（十五）整合RocketMQ](https://mp.weixin.qq.com/s/4vFsvQn1I0YT92_gJ3-KwQ)
 
+### Spring Boot日志管理
+- spring-boot-logback | [spring-boot-route（十六）使用logback生产日志文件](https://mp.weixin.qq.com/s/2AJSkcoUpXLXnkCV8AFfRw)
+
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
