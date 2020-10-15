@@ -1,0 +1,6 @@
+server:
+  port: 7016
+logging:
+  level:
+    # °üÃû
+    com.javatrip: warn
