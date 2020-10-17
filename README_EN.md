@@ -40,6 +40,7 @@ The project is being serialized... If you want to get dynamic information at any
 
 ### Spring Boot Log management
 - spring-boot-logback | [spring-boot-route（十六）[Using logback to produce log files](https://mp.weixin.qq.com/s/2AJSkcoUpXLXnkCV8AFfRw)
+- spring-boot-aop | [spring-boot-route（十七）Log operations using AOP](https://mp.weixin.qq.com/s/7A18VU9_5qL66A8o4w-VWw)
 
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
