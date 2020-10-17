@@ -39,7 +39,7 @@ The project is being serialized... If you want to get dynamic information at any
 - spring-boot-rocketmq | [spring-boot-route（十五）Integrating RocketMQ](https://mp.weixin.qq.com/s/4vFsvQn1I0YT92_gJ3-KwQ)
 
 ### Spring Boot Log management
-- spring-boot-logback | [spring-boot-route（十六）[Using logback to produce log files](https://mp.weixin.qq.com/s/2AJSkcoUpXLXnkCV8AFfRw)
+- spring-boot-logback | [spring-boot-route（十六）Using logback to produce log files](https://mp.weixin.qq.com/s/2AJSkcoUpXLXnkCV8AFfRw)
 - spring-boot-aop | [spring-boot-route（十七）Log operations using AOP](https://mp.weixin.qq.com/s/7A18VU9_5qL66A8o4w-VWw)
 
 ##  Contact me 
