@@ -1,25 +1,40 @@
+#server:
+#  port: 7018
+#management:
+#  endpoint:
+#    # 展示health端点详细信息
+#    health:
+#      show-details: always
+#    # 开启shutdown端点
+#    shutdown:
+#      enabled: true
+#  # 启用所有端点
+#  endpoints:
+#    enabled-by-default: true
+#    # 暴露http端点
+#    web:
+#      exposure:
+#        include: health,info,beans,metrics
+#    # 暴露jmx端点
+#    jmx:
+#      exposure:
+#        include: health,info
+#info:
+#  person:
+#    name: Java旅途
+#    age: 18
+
+
+# spring-boot-admin-client配置
 server:
-  port: 7018
+  port: 7020
+spring:
+  boot:
+    admin:
+      client:
+        url: http://localhost:7019
 management:
-  endpoint:
-    # 展示health端点详细信息
-    health:
-      show-details: always
-    # 开启shutdown端点
-    shutdown:
-      enabled: true
-  # 启用所有端点
   endpoints:
-    enabled-by-default: true
-    # 暴露http端点
     web:
       exposure:
-        include: health,info,beans,metrics
-    # 暴露jmx端点
-    jmx:
-      exposure:
-        include: health,info
-info:
-  person:
-    name: Java旅途
-    age: 18
+        include: "*"
