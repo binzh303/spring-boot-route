@@ -46,6 +46,7 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 
 ### Spring Boot服务监控
 - spring-boot-actuator | [spring-boot-route（十八）spring-boot-actuator监控应用](https://mp.weixin.qq.com/s/PxomNCmyUgQK7SzHDDarOg)
+- spring-boot-admin-server/spring-boot-actuator |[spring-boot-route（十九）spring-boot-admin监控服务](https://mp.weixin.qq.com/s/ywoW7BNSvEXlcf5ufkIzIQ)
 
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)

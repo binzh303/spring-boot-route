@@ -44,6 +44,7 @@ The project is being serialized... If you want to get dynamic information at any
 
 ### Spring Boot Service monitoring
 - spring-boot-actuator | [spring-boot-route（十八）spring-boot-actuator Monitoring application](https://mp.weixin.qq.com/s/PxomNCmyUgQK7SzHDDarOg)
+- spring-boot-admin-server/spring-boot-actuator |[spring-boot-route（十九）spring-boot-admin Monitoring server](https://mp.weixin.qq.com/s/ywoW7BNSvEXlcf5ufkIzIQ)
 
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
