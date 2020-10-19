@@ -5,8 +5,8 @@ import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 定时任务测试
  * @Date 2020-10-17 11:48
  */
 @Slf4j
@@ -20,11 +20,5 @@ public class ScheduledTest {
     @Scheduled(cron = "*/1 * * * * ?")
     public void test2(){
         log.info("这是定时任务2----");
-    }
-    @Scheduled(cron = "*/1 * * * * ?")
-    public void test3(){
-        int i =0;
-        i = 1/i;
-        log.info("这是定时任务3----");
     }
 }
