@@ -3,6 +3,7 @@
 ![Spring Boot 2.3](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
 ![Maven](https://img.shields.io/badge/Maven-3.5.0-yellowgreen.svg)
 ![JDK 1.8](https://img.shields.io/badge/JDK-1.8-brightgreen.svg)
+![公众号](https://img.shields.io/badge/Java旅途-brightgreen.svg)
 
  Spring boot technology stack sharing, the overall spring boot is divided into nine modules, easy for beginners to master quickly. 
 ![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVfF1BjN5R1wZR3oCnkESSrF9zcLEYcrm6sv2dHshctmIQNHVbrEn2y9aVGDWSia73pDWkFEiafw27NQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
@@ -47,7 +48,8 @@ The project is being serialized... If you want to get dynamic information at any
 - spring-boot-admin-server/spring-boot-actuator |[spring-boot-route（十九）spring-boot-admin Monitoring server](https://mp.weixin.qq.com/s/ywoW7BNSvEXlcf5ufkIzIQ)
 
 ### Spring Boot Timed tasks 
-- spring-boot-task | [spring-boot-route（二十） Spring task implements simple timing task](https://mp.weixin.qq.com/s/XKFdAmobB7uMSpbwxmeEhA)
+- spring-boot-task | [spring-boot-route（二十）Spring task implements simple timing task](https://mp.weixin.qq.com/s/XKFdAmobB7uMSpbwxmeEhA)
+- spring-boot-quartz | [spring-boot-route（二十一）Quartz realizes dynamic timing task](https://mp.weixin.qq.com/s/yoVmA0HIuGDUkM5gTctl4g)
 
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
