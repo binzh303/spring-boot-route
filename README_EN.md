@@ -1,9 +1,9 @@
 ## Learning and sharing of spring boot technology stack
 ---
-![Spring Boot 2.3](https://img.shields.io/badge/Spring%20Boot-2.0-brightgreen.svg)
-![Maven](https://img.shields.io/badge/Maven-3.5.0-yellowgreen.svg)
-![JDK 1.8](https://img.shields.io/badge/JDK-1.8-brightgreen.svg)
-![公众号](https://img.shields.io/badge/Java旅途-brightgreen.svg)
+![Spring Boot 2.3](https://img.shields.io/badge/Spring%20Boot-2.3-brightgreen.svg)
+![JDK 1.8](https://img.shields.io/badge/JDK-1.8-blue.svg)
+![Maven](https://img.shields.io/badge/Maven-3.5.4-important.svg)
+![公众号](https://img.shields.io/badge/Java旅途-lightgrey.svg)
 
  Spring boot technology stack sharing, the overall spring boot is divided into nine modules, easy for beginners to master quickly. 
 ![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVfF1BjN5R1wZR3oCnkESSrF9zcLEYcrm6sv2dHshctmIQNHVbrEn2y9aVGDWSia73pDWkFEiafw27NQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
