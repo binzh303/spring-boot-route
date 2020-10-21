@@ -6,8 +6,7 @@
 ![公众号](https://img.shields.io/badge/Java旅途-lightgrey.svg)
 
  Spring boot technology stack sharing, the overall spring boot is divided into nine modules, easy for beginners to master quickly. 
-![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVfF1BjN5R1wZR3oCnkESSrF9zcLEYcrm6sv2dHshctmIQNHVbrEn2y9aVGDWSia73pDWkFEiafw27NQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
+![springboot](https://i.loli.net/2020/10/21/2JP6YLsmUEwHgAo.png)
 The project is being serialized... If you want to get dynamic information at any time, click **star** and **fork**
 
 ##  Catalog and sample code 
