@@ -1,0 +1,11 @@
+server:
+  port: 7023
+spring:
+  mail:
+    default-encoding: utf-8
+    # 服务器地址
+    host: smtp.126.com
+    # 用户名
+    username: zhbin303@126.com
+    # 授权码（不是登录密码）
+    password: CDDEHUGOTSNVOXQV
