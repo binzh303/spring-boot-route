@@ -1,4 +1,4 @@
-package com.javatrip.weixin.Test;
+package com.javatrip.weixin;
 
 import com.jfinal.weixin.sdk.msg.in.InTextMsg;
 import com.jfinal.weixin.sdk.msg.in.event.InFollowEvent;
@@ -12,8 +12,8 @@ import net.dreamlu.weixin.annotation.WxMsgController;
 import net.dreamlu.weixin.spring.DreamMsgControllerAdapter;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+* @Description 微信服务验证及菜单、回复等事件实现类
  * @Date 2020-08-23 12:22
  */
 @WxMsgController("/weixin/wx")

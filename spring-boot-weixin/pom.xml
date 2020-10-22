@@ -10,7 +10,7 @@
     <groupId>com.javatrip</groupId>
     <artifactId>weixin</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>weixin</name>
+    <name>spring-boot-weixin</name>
     <description>接入微信开发</description>
 
     <dependencies>

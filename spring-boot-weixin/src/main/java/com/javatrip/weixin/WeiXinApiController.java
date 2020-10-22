@@ -1,4 +1,4 @@
-package com.javatrip.weixin.Test;
+package com.javatrip.weixin;
 
 import com.jfinal.weixin.sdk.api.ApiResult;
 import com.jfinal.weixin.sdk.api.MenuApi;
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import java.util.LinkedHashMap;
 
 /**
- * @Author zhbin
- * @Description
+ * @Author 公众号：Java旅途
+ * @Description 菜单配置类
  * @Date 2020-08-23 16:05
  */
 @WxApi("weixin/api")

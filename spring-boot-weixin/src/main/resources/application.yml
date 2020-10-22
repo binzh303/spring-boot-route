@@ -1,5 +1,5 @@
 server:
-  port: 7005
+  port: 7024
 
 dream:
   weixin:
