@@ -53,5 +53,8 @@ Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便�
 - spring-boot-task | [spring-boot-route（二十）Spring Task实现简单定时任务](https://mp.weixin.qq.com/s/XKFdAmobB7uMSpbwxmeEhA)
 - spring-boot-quartz | [spring-boot-route（二十一）Quartz实现动态定时任务](https://mp.weixin.qq.com/s/yoVmA0HIuGDUkM5gTctl4g)
 
+### Spring Boot其他
+- spring-boot-mail | [spring-boot-route（二十二）实现邮件发送功能](https://mp.weixin.qq.com/s/kYvwFKSCBOvB5IrFmJnMsA)
+
 ## 我的公众号
 ![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
