@@ -53,6 +53,6 @@ The project is being serialized... If you want to get dynamic information at any
 
 ### Spring Boot other
 - spring-boot-mail | [spring-boot-route（二十二）Realize the function of sending mail](https://mp.weixin.qq.com/s/kYvwFKSCBOvB5IrFmJnMsA)
-
+- spring-boot-weixin | [spring-boot-route（二十三）develop WeChat official account](https://mp.weixin.qq.com/s/S2O1TVOI03MKMF_RxjH9EA)
 ##  Contact me 
 ![javatrip](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
