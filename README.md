@@ -6,8 +6,8 @@ Spring Boot 学习路线
 ![Maven](https://img.shields.io/badge/Maven-3.5.4-important.svg)
 ![公众号](https://img.shields.io/badge/Java旅途-lightgrey.svg)
 
-Spring Boot 技术栈分享，整体将 Spring Boot 划分为九个模块，便于初学者快速掌握。
-![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVfF1BjN5R1wZR3oCnkESSrF9zcLEYcrm6sv2dHshctmIQNHVbrEn2y9aVGDWSia73pDWkFEiafw27NQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他知识等九大部分，二十三篇文章，内容几乎涉猎了开发中比较常用的技术点。
+![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVcKA2SqIHWZus31XcianxQqjhw1Sh4YzQ7pXno0TLJGIQDYtA2kFhA4Dhqbbpicyb88AM5SGOBKF7Kg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 ##### 项目正在连载...，如果想随时获得动态，点个**Star**并**Fork**一下
 
