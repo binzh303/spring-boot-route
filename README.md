@@ -7,7 +7,10 @@ Spring Boot 学习路线
 ![公众号](https://img.shields.io/badge/Java旅途-lightgrey.svg)
 
 Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他知识等九大部分，二十三篇文章，内容几乎涉猎了开发中比较常用的技术点。
-![sb](https://gitee.com/zhixie/spring-boot-route/raw/master/image/sb.png)
+
+---
+
+![sb](https://img2020.cnblogs.com/blog/1719198/202010/1719198-20201024191457299-450834729.png)
 ##### 项目正在连载...，如果想随时获得动态，点个**Star**并**Fork**一下
 
 ## 目录及示例代码
