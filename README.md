@@ -8,7 +8,7 @@ Spring Boot 学习路线
 
 Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他知识等九大部分，二十三篇文章，内容几乎涉猎了开发中比较常用的技术点。
 
-[github地址](https://github.com/binzh303/spring-boot-route) | [gitee地址](https://gitee.com/zhixie/spring-boot-route) 
+[Github地址](https://github.com/binzh303/spring-boot-route) | [Gitee地址](https://gitee.com/zhixie/spring-boot-route) 
 
 ---
 
