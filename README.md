@@ -7,7 +7,6 @@ Spring Boot 学习路线
 ![公众号](https://img.shields.io/badge/Java旅途-lightgrey.svg)
 
 Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、数据访问、缓存服务、消息队列、日志管理、服务监控、定时任务及其他知识等九大部分，二十三篇文章，内容几乎涉猎了开发中比较常用的技术点。
-![springboot](https://mmbiz.qpic.cn/mmbiz_png/lgiaG5BicLkVcKA2SqIHWZus31XcianxQqjhw1Sh4YzQ7pXno0TLJGIQDYtA2kFhA4Dhqbbpicyb88AM5SGOBKF7Kg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 ![sb](https://gitee.com/zhixie/spring-boot-route/raw/master/image/sb.png)
 ##### 项目正在连载...，如果想随时获得动态，点个**Star**并**Fork**一下
 
@@ -58,5 +57,4 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 - spring-boot-weixin | [spring-boot-route（二十三）开发微信公众号](https://mp.weixin.qq.com/s/S2O1TVOI03MKMF_RxjH9EA)
 
 ## 我的公众号
-![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 ![wx](https://gitee.com/zhixie/spring-boot-route/raw/master/image/wx.jpg)
