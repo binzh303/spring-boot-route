@@ -21,15 +21,15 @@ public class Email {
 
         SimpleMailMessage message = new SimpleMailMessage();
         // 发件人
-        message.setFrom("zhbin303@126.com");
+        message.setFrom("xxx@126.com");
         // 收件人
-        message.setTo("binzh303@163.com");
+        message.setTo("xxx@163.com");
         // 邮件标题
         message.setSubject("Java发送邮件第二弹");
         // 邮件内容
         message.setText("你好，这是一条用于测试Spring Boot邮件发送功能的邮件！哈哈哈~~~");
         // 抄送人
-        message.setCc("1062789205@qq.com");
+        message.setCc("xxx@qq.com");
         mailSender.send(message);
     }
 }

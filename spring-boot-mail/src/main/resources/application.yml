@@ -6,6 +6,6 @@ spring:
     # 服务器地址
     host: smtp.126.com
     # 用户名
-    username: zhbin303@126.com
+    username: xxx@126.com
     # 授权码（不是登录密码）
-    password: CDDEHUGOTSNVOXQV
+    password: xxx
