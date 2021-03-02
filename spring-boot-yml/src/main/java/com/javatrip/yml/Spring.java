@@ -12,7 +12,7 @@ import org.springframework.context.annotation.PropertySource;
  */
 @Data
 @Configuration
-@PropertySource(value = {"classpath:test.yml"},encoding = "gbk")
+@PropertySource(value = {"classpath:test.yml"},encoding = "gbk",factory = YmlConfigFactory.class)
 @ConfigurationProperties(prefix = "spring")
 public class Spring {
 
