@@ -65,4 +65,4 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 - spring-boot-weixin | [spring-boot-route（二十三）开发微信公众号](https://javatip.cn/archives/125)
 
 ## 我的公众号
-![Java旅途](https://img.javatip.cn/20210402230728.jpg)
+![Java旅途](https://img.javatip.cn/20210403002455.jpg)
