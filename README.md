@@ -21,48 +21,48 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 ## 目录及示例代码
 ### Spring Boot基础知识
 
-- spring-boot-param | [spring-boot-route（一）Controller接收参数的几种方式](https://mp.weixin.qq.com/s/TvvHxOa7_pzeqwGKUalIcA)
-- spring-boot-yml | [spring-boot-route（二）读取配置文件的几种方式](https://mp.weixin.qq.com/s/1SdHviUwagWQmTW__d4w1g)
-- spring-boot-file | [spring-boot-route（三）实现多文件上传](https://mp.weixin.qq.com/s/6ZbV9STT8Es76c7iC7ZFEQ)
-- spring-boot-exception | [spring-boot-route（四）全局异常处理](https://mp.weixin.qq.com/s/uyNerDDvYafHXh_OImbOww)
+- spring-boot-param | [spring-boot-route（一）Controller接收参数的几种方式](https://javatip.cn/archives/66)
+- spring-boot-yml | [spring-boot-route（二）读取配置文件的几种方式](https://javatip.cn/archives/72)
+- spring-boot-file | [spring-boot-route（三）实现多文件上传](https://javatip.cn/archives/74)
+- spring-boot-exception | [spring-boot-route（四）全局异常处理](https://javatip.cn/archives/79)
 
 ### Spring Boot Web开发
 
-- spring-boot-swagger | [spring-boot-route（五）整合swagger生成接口文档](https://mp.weixin.qq.com/s/L9C5doTc_iKul7--RL3CDg)
-- spring-boot-japidocs | [spring-boot-route（六）整合JApiDocs生成接口文档](https://mp.weixin.qq.com/s/wIj5wrEPQUf0n19E5th63w)
+- spring-boot-swagger | [spring-boot-route（五）整合swagger生成接口文档](https://javatip.cn/archives/90)
+- spring-boot-japidocs | [spring-boot-route（六）整合JApiDocs生成接口文档](https://javatip.cn/archives/91)
 
 ### Spring Boot数据访问
 
-- spring-boot-jdbctemplate | [spring-boot-route（七）整合jdbcTemplate操作数据库](https://mp.weixin.qq.com/s/_VP272DEDU9WMHMBCldkhQ)
-- spring-boot-mybatis | [spring-boot-route（八）整合mybatis操作数据库](https://mp.weixin.qq.com/s/O6WedNg4wbjEec0Ankco1g)
-- spring-boot-JPA | [spring-boot-route（九）整合JPA操作数据库](https://mp.weixin.qq.com/s/YR2Z1ccQQVxEjAWK1adHFg)
-- spring-boot-datasource | [spring-boot-route（十）多数据源切换](https://mp.weixin.qq.com/s/glxY1zvr7PcIdRz1ShsKYQ)
-- spring-boot-encypt | [spring-boot-route（十一）数据库配置信息加密](https://mp.weixin.qq.com/s/l7A6YwvIoXEVT3pyNdjP_g)
+- spring-boot-jdbctemplate | [spring-boot-route（七）整合jdbcTemplate操作数据库](https://javatip.cn/archives/92)
+- spring-boot-mybatis | [spring-boot-route（八）整合mybatis操作数据库](https://javatip.cn/archives/93)
+- spring-boot-JPA | [spring-boot-route（九）整合JPA操作数据库](https://javatip.cn/archives/94)
+- spring-boot-datasource | [spring-boot-route（十）多数据源切换](https://javatip.cn/archives/95)
+- spring-boot-encypt | [spring-boot-route（十一）数据库配置信息加密](https://javatip.cn/archives/113)
 
 ### Spring Boot整合缓存
 
-- spring-boot-redis | [spring-bot-route（十二）整合redis做为缓存](https://mp.weixin.qq.com/s/sj9Oq3i4zEyoEhwyBmUERA)
+- spring-boot-redis | [spring-bot-route（十二）整合redis做为缓存](https://javatip.cn/archives/114)
 
 ### Spring Boot整合消息队列
-- spring-boot-rabbitmq | [spring-boot-route（十三）整合RabbitMQ](https://mp.weixin.qq.com/s/X2QtStCpcOFKYGQnuakFvg)
-- spring-boot-kafka | [spring-boot-route（十四）整合Kafka](https://mp.weixin.qq.com/s/dRI3oiMd_RAJ95lyGro9Fw)
-- spring-boot-rocketmq | [spring-boot-route（十五）整合RocketMQ](https://mp.weixin.qq.com/s/4vFsvQn1I0YT92_gJ3-KwQ)
+- spring-boot-rabbitmq | [spring-boot-route（十三）整合RabbitMQ](https://javatip.cn/archives/115)
+- spring-boot-kafka | [spring-boot-route（十四）整合Kafka](https://javatip.cn/archives/116)
+- spring-boot-rocketmq | [spring-boot-route（十五）整合RocketMQ](https://javatip.cn/archives/117)
 
 ### Spring Boot日志管理
-- spring-boot-logback | [spring-boot-route（十六）使用logback生产日志文件](https://mp.weixin.qq.com/s/2AJSkcoUpXLXnkCV8AFfRw)
-- spring-boot-aop | [spring-boot-route（十七）使用aop记录操作日志](https://mp.weixin.qq.com/s/7A18VU9_5qL66A8o4w-VWw)
+- spring-boot-logback | [spring-boot-route（十六）使用logback生产日志文件](https://javatip.cn/archives/118)
+- spring-boot-aop | [spring-boot-route（十七）使用aop记录操作日志](https://javatip.cn/archives/119)
 
 ### Spring Boot服务监控
-- spring-boot-actuator | [spring-boot-route（十八）spring-boot-actuator监控应用](https://mp.weixin.qq.com/s/PxomNCmyUgQK7SzHDDarOg)
-- spring-boot-admin-server/spring-boot-actuator |[spring-boot-route（十九）spring-boot-admin监控服务](https://mp.weixin.qq.com/s/ywoW7BNSvEXlcf5ufkIzIQ)
+- spring-boot-actuator | [spring-boot-route（十八）spring-boot-actuator监控应用](https://javatip.cn/archives/120)
+- spring-boot-admin-server/spring-boot-actuator |[spring-boot-route（十九）spring-boot-admin监控服务](https://javatip.cn/archives/121)
 
 ### Spring Boot定时任务
-- spring-boot-task | [spring-boot-route（二十）Spring Task实现简单定时任务](https://mp.weixin.qq.com/s/XKFdAmobB7uMSpbwxmeEhA)
-- spring-boot-quartz | [spring-boot-route（二十一）Quartz实现动态定时任务](https://mp.weixin.qq.com/s/yoVmA0HIuGDUkM5gTctl4g)
+- spring-boot-task | [spring-boot-route（二十）Spring Task实现简单定时任务](https://javatip.cn/archives/122)
+- spring-boot-quartz | [spring-boot-route（二十一）Quartz实现动态定时任务](https://javatip.cn/archives/123)
 
 ### Spring Boot其他
-- spring-boot-mail | [spring-boot-route（二十二）实现邮件发送功能](https://mp.weixin.qq.com/s/kYvwFKSCBOvB5IrFmJnMsA)
-- spring-boot-weixin | [spring-boot-route（二十三）开发微信公众号](https://mp.weixin.qq.com/s/S2O1TVOI03MKMF_RxjH9EA)
+- spring-boot-mail | [spring-boot-route（二十二）实现邮件发送功能](https://javatip.cn/archives/124)
+- spring-boot-weixin | [spring-boot-route（二十三）开发微信公众号](https://javatip.cn/archives/125)
 
 ## 我的公众号
-![Java旅途](https://mmbiz.qpic.cn/mmbiz_jpg/lgiaG5BicLkVcL78JBvS9m020Nt20MtiaRjgm6nhDIK8BBtObRhlDSX1byTgNTe79hmHiaLFppsBkzhnAq7oj3nyPA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![Java旅途](https://img.javatip.cn/20210402230728.jpg)
