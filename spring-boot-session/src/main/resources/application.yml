@@ -1,0 +1,26 @@
+server:
+  port: 8013
+spring:
+  redis:
+    # redis库
+    database: 0
+    # redis 服务器地址
+    host: localhost
+    # redis 端口号
+    port: 6379
+    # redis 密码
+    password:
+    # 连接超时时间（毫秒）
+    timeout: 1000
+    lettuce:
+      pool:
+        # 连接池最大链接数（负数表示没有限制）
+        max-active: 8
+        # 连接池最大阻塞等待时间（负数表示没有限制）
+        max-wait: -1
+        # 连接池最大空闲连接数
+        max-idle: 8
+        # 连接池最小空闲连接数
+        min-idle: 0
+  session:
+    store-type: redis

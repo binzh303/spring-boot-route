@@ -64,5 +64,10 @@ Spring Boot 技术栈分享，spring-boot-route包含基础知识、Web开发、
 - spring-boot-mail | [spring-boot-route（二十二）实现邮件发送功能](https://javatip.cn/archives/124)
 - spring-boot-weixin | [spring-boot-route（二十三）开发微信公众号](https://javatip.cn/archives/125)
 
+### Spring Boot补充
+- spring-boot-session | [spring-boot-route（二十四）分布式session的一致性处理](https://javatip.cn/archives/284)
+- 暂无示例代码| [spring-boot-route（二十五）Spring Boot实现国际化](https://javatip.cn/archives/256)
+- 暂无示例代码| [spring-boot-route（二十六）Spring Boot整合webSocket](https://javatip.cn/archives/255)
+
 ## 我的公众号
 ![Java旅途](https://img.javatip.cn/20210403002455.jpg)

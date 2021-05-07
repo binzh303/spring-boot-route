@@ -47,7 +47,7 @@
         <module>spring-boot-quartz</module>
         <module>spring-boot-mail</module>
         <module>spring-boot-weixin</module>
-
+        <module>spring-boot-session</module>
 
     </modules>
 
